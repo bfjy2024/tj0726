@@ -1,0 +1,26 @@
+       body {
+            font-family: Arial, sans-serif;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .footer a {
+            color: #000;
+            text-decoration: none;
+        }
+        .footer i {
+            margin-right: 5px;
+        }
